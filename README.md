@@ -25,46 +25,33 @@
 * Product Description
 * Reviews
 
-Employee-Any person who is employed as a part of company staff
+⇾ Employee-Any person who is employed as a part of company staff
 Attributes: EmployeeID, EmpFirst_Name, EmpLast_SSN, EmpMail_Address, Designation, Department, Salary, Employee_Type.
-
-Customer -A person who buys products with cash or card basis. He may be internal or external customer.
+⇾ Customer -A person who buys products with cash or card basis. He may be internal or external customer.
 Attributes: CustomerID, First_Name, Last_Name, Mail_Address, Phone_Number, Category
-
-Bill -Bill includes the total bill for the purchased products and amount that customer paid
+⇾ Bill -Bill includes the total bill for the purchased products and amount that customer paid
 Attributes: Billing_ID, Amount_Paid
-
-Address -Address to with a particular order must be delivered.
+⇾ Address -Address to with a particular order must be delivered.
 Attributes: AddressID, Address_line1, Address_line2
-
-Zip Code -Zip details of customers address is included 
+⇾ Zip Code -Zip details of customers address is included 
 Attributes: ZipCode, City, State
-
-Payment- This table hold Date of customer visit number, payment and payment type whether the customer bought directly from store or purchased online. It also includes the customer card details
+⇾ Payment- This table hold Date of customer visit number, payment and payment type whether the customer bought directly from store or purchased online. It also includes the customer card details
 Attributes: Payment_ID, Payment_Type, CreditCard_Number,Card_Type, CVV_Number, ExpiryDate, CardHolder_Name
-
-Orders – This table hold the status of the order whether the order is delivered or not and the shipment option given by the customer.
+⇾ Orders – This table hold the status of the order whether the order is delivered or not and the shipment option given by the customer.
 Attributes: Order_ID,Shippment_Duration, Order_Date,Status.
-
-Order Item-OrderItem contains the details like date and quantity of items purchased.
+⇾ Order Item-OrderItem contains the details like date and quantity of items purchased.
 Attributes: Date of Order, Quantity
-
-Order Product- This contains the details of quantity of product that customer ordered
+⇾ Order Product- This contains the details of quantity of product that customer ordered
 Attributes: OrderProduct_ID, Quantity
-
-Voucher- Voucher includes priority of customers so based on that customers are given discount on their purchase.
+⇾ Voucher- Voucher includes priority of customers so based on that customers are given discount on their purchase.
 Attributes: Voucher_Number, Description, Priority, Quantity_Item
-
-Product -It is a form of good that is purchased by customer.
+⇾ Product -It is a form of good that is purchased by customer.
 Attributes: ProductID, Product_Name, Available_Number
-
-Product Details – Product details contains the description of particular product
+⇾ Product Details – Product details contains the description of particular product
 Attributes:  Weight, Width, Colour, Height
-
-Product Group – Product group tells to which category the product belongs to (Ex. Electronics)
+⇾ Product Group – Product group tells to which category the product belongs to (Ex. Electronics)
 Attributes:  Group_ID, Group_Name
-
-Review-Reviews are the feedback given to the product by customers.
+⇾ Review-Reviews are the feedback given to the product by customers.
 Attributes: Quality, Defect%, Review_ID, Review_Date
 
 ### ER Diagram for Retail Application
