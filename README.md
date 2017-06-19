@@ -8,5 +8,6 @@
 #### ER Diagram for Retail Application after Normalization
 ![333](https://user-images.githubusercontent.com/25045759/27304878-8679f712-550d-11e7-8dd3-d2ad92ee5289.jpg)
 
-### Project README:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>README</a>
-### Project Link:<a href="https://github.com/Uppalapa/Assignments/blob/master/final/data/analysis1.csv"/>PROJECT CODE</a>
+### Project README:<a href="https://github.com/Uppalapa/Database-Projects/blob/master/DBMS%20Retail%20Application/README.md"/>README</a>
+### Project Link:<a href="https://github.com/Uppalapa/Database-Projects/blob/master/DBMS%20Retail%20Application/SQLQueries%2CTriggers%2CStoredProcedures%2CViews.sql"/>PROJECT CODE</a>
+### Result Report:<a href="https://github.com/Uppalapa/DatabaseProjects/blob/master/DBMS%20Retail%20Application/Result%20report.docx"/>REPORT</a>
