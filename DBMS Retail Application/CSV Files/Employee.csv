@@ -1,0 +1,30 @@
+Designation,Department,Join_Date,ssn,Salary,Employee_ID,Employee_Name,Employee_Type
+Marketer,Marketing,2/12/2016,501965640,3000,E100,Mia,Full Time
+Sales Person,Sales,5/19/2016,448454504,1000,E101,Mia,Full Time
+Financial Advisor,Finance,10/21/2016,178408516,4000,E102,Mia,Full Time
+Business Analyst,Finance,8/18/2016,697367249,4000,E103,Mia,Full Time
+Accountant,Finance,1/18/2016,282314775,1200,E104,Mia,Full Time
+PC Assistants,Billing,3/10/2016,210794068,1300,E105,Mia,Full Time
+PC Assistants,Billing,11/25/2016,448101338,1300,E106,Mia,Full Time
+PC Assistants,Billing,11/5/2016,162274487,1300,E107,Leoni,Full Time
+PC Assistants,Billing,11/21/2016,583021048,1300,E108,Leoni,Full Time
+PC Assistants,Billing,5/4/2016,373888988,1300,E109,Leoni,Full Time
+PC Assistants,Billing,6/26/2016,432253711,1300,E110,Leoni,Full Time
+PC Assistants,Billing,5/14/2016,368292987,1300,E111,Leoni,Full Time
+PC Assistants,Billing,2/26/2016,759909891,1300,E112,Leoni,Full Time
+PC Assistants,Billing,11/29/2016,355492520,1300,E113,Marty,Full Time
+PC Assistants,Billing,8/19/2016,420485178,1300,E114,Marty,Full Time
+PC Assistants,Billing,1/8/2016,388145184,1300,E115,Marty,Full Time
+PC Assistants,Billing,11/18/2016,273173687,1300,E116,Bob,Full Time
+PC Assistants,Billing,4/10/2016,435797043,1300,E117,Bob,Full Time
+PC Assistants,Billing,4/22/2016,205203530,1300,E118,Bob,Full Time
+PC Assistants,Billing,1/31/2016,758165151,1300,E119,Bob,Part Time
+PC Assistants,Billing,7/1/2016,318277304,1300,E120,Peter,Part Time
+PC Assistants,Billing,4/12/2016,916118821,1300,E121,Peter,Part Time
+PC Assistants,Billing,9/16/2016,507645475,1300,E122,Joanna,Part Time
+Sales Advisor,Sales,4/27/2016,482702342,3000,E123,Joanna,Part Time
+Sales Advisor,Sales,8/19/2016,916799612,3000,E124,Visha,Part Time
+Sales Advisor,Sales,3/7/2016,552599525,3000,E125,Visha,Part Time
+Sales Advisor,Sales,7/26/2016,132527849,3000,E126,Ruby,Part Time
+Sales Person,Sales,12/7/2016,406234803,1000,E127,Ashley,Part Time
+Sales Person,Sales,5/2/2016,500963559,1000,E128,Stephanie,Part Time

@@ -1,0 +1,41 @@
+Product_ID,Product_Name,Available_Number,Group_ID,Supplier_ID
+PR101,Lenevo Flex,25,100,S008
+PR102,Lenevo Yoga,25,100,S008
+PR103,Lenevo Think Pad,25,100,S008
+PR104,Mac Book Pro,27,100,S007
+PR105,Mac Mini,29,100,S007
+PR106,Mac Air,31,100,S007
+PR107,Mac Book,33,100,S007
+PR108,Mac Desktops,35,100,S007
+PR109,Hewlett Mini,37,100,S006
+PR110,Hewlett Desktop,39,100,S006
+PR111,Lenevo 5Note,40,100,S008
+PR112,Lenevo Phab,40,100,S008
+PR113,Lenevo A8,40,100,S008
+PR114,Lenevo K10,40,100,S008
+PR115,IphoneS7 Plus,40,100,S007
+PR116,IphoneS6 Plus,40,100,S007
+PR117,IphoneS4,21,100,S007
+PR118,IphoneS5,22,100,S007
+PR119,IphoneS6,23,100,S007
+PR120,IphoneS7,24,100,S007
+PR121,Zara Women Frocks,25,200,S002
+PR122,Zara Sweat Shirts,26,200,S002
+PR123,Zara Trousers,27,200,S002
+PR124,Zara Tshirt,28,200,S002
+PR125,Zara Hood Shirt,29,200,S002
+PR126,Gucci Sweat Shirt,30,200,S003
+PR127,Gucci Shirts,31,200,S003
+PR128,Gucci Women Frocks,32,200,S003
+PR129,Gucci Women Shirts,33,200,S003
+PR130,Gucci Men Tshirts,34,200,S003
+PR131,Gucci Women Tshirts,35,200,S003
+PR132,Lacoste Women Tshirts,22,200,S001
+PR133,Lacoste Mens Tshirts,22,200,S001
+PR134,Lacoste Shorts,22,200,S001
+PR135,Lacoste Shirts,17,200,S001
+PR136,Addidas Formal Shoes,18,300,S005
+PR137,Addidas sneakers,19,300,S005
+PR138,Nike Formal Shoes,20,300,S003
+PR139,Nike Sports Shoes,21,300,S003
+PR140,Star Sneakers,12,300,S001

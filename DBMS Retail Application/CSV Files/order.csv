@@ -1,0 +1,89 @@
+Order_ID,Order_Date,Status,Shippent_Duration,Payment_ID
+O100,2/19/2016,In Progress,Immediate,P10
+O101,7/25/2016,In Progress,Immediate,P11
+O102,7/17/2016,In Progress,Immediate,P12
+O103,4/29/2016,In Progress,Immediate,P13
+O104,8/16/2016,In Progress,Immediate,P14
+O105,2/7/2016,In Progress,Immediate,P15
+O106,4/7/2016,In Progress,Immediate,P16
+O107,12/29/2016,In Progress,Immediate,P17
+O108,2/5/2016,In Progress,Immediate,P18
+O109,11/29/2016,In Progress,Immediate,P19
+O110,12/29/2016,In Progress,Immediate,P20
+O111,7/31/2016,In Progress,Immediate,P21
+O112,5/23/2016,In Progress,Immediate,P22
+O113,8/21/2016,In Progress,Immediate,P23
+O114,8/2/2016,In Progress,Immediate,P24
+O115,5/10/2016,In Progress,Immediate,P25
+O116,10/27/2016,In Progress,Immediate,P26
+O117,12/18/2016,In Progress,Immediate,P27
+O118,6/17/2016,In Progress,Immediate,P28
+O119,8/22/2016,In Progress,With in 4 Days,P29
+O120,11/9/2016,In Progress,With in 4 Days,P30
+O121,10/16/2016,In Progress,With in 4 Days,P31
+O122,12/21/2016,In Progress,With in 4 Days,P32
+O123,3/9/2016,In Progress,With in 4 Days,P33
+O124,4/12/2016,In Progress,With in 4 Days,P34
+O125,1/15/2016,In Progress,With in 4 Days,P35
+O126,7/9/2016,In Progress,With in 4 Days,P36
+O127,12/15/2016,Shipped,With in 4 Days,P37
+O128,7/18/2016,Shipped,With in 4 Days,P38
+O129,3/13/2016,Shipped,With in 4 Days,P39
+O130,6/12/2016,Shipped,With in 4 Days,P40
+O131,3/26/2016,Shipped,With in 4 Days,P41
+O132,4/23/2016,Shipped,With in 4 Days,P42
+O133,9/19/2016,Shipped,With in 4 Days,P43
+O134,6/25/2016,Shipped,With in 4 Days,P44
+O135,2/29/2016,Shipped,With in 4 Days,P45
+O136,8/24/2016,Shipped,With in 4 Days,P46
+O137,7/30/2016,Shipped,With in 4 Days,P47
+O138,10/21/2016,Shipped,With in 4 Days,P48
+O139,3/7/2016,Shipped,With in 4 Days,P49
+O140,5/16/2016,Shipped,With in 4 Days,P50
+O141,6/3/2016,Shipped,With in 4 Days,P51
+O142,2/2/2016,Shipped,With in 4 Days,P52
+O143,1/11/2016,Shipped,With in 4 Days,P53
+O144,5/31/2016,Shipped,With in 4 Days,P54
+O145,2/29/2016,Shipped,With in 4 Days,P55
+O146,11/2/2016,Shipped,With in 4 Days,P56
+O147,12/26/2016,Shipped,With in 4 Days,P57
+O148,11/13/2016,Shipped,With in 4 Days,P58
+O149,12/27/2016,Shipped,With in 4 Days,P59
+O150,1/19/2016,Shipped,With in 4 Days,P60
+O151,4/8/2016,Shipped,With in 4 Days,P61
+O152,12/9/2016,Shipped,With in 4 Days,P62
+O153,10/27/2016,Shipped,With in 4 Days,P63
+O154,12/6/2016,Shipped,With in 4 Days,P64
+O155,11/28/2016,Shipped,With in 4 Days,P65
+O156,10/11/2016,Shipped,With in 4 Days,P66
+O157,2/4/2016,Shipped,With in 4 Days,P67
+O158,9/26/2016,Shipped,With in 1 Week,P68
+O159,3/9/2016,Shipped,With in 1 Week,P69
+O160,12/30/2016,Shipped,With in 1 Week,P70
+O161,11/16/2016,Shipped,With in 1 Week,P71
+O162,1/13/2016,Shipped,With in 1 Week,P72
+O163,8/24/2016,Shipped,With in 1 Week,P73
+O164,6/23/2016,Shipped,With in 1 Week,P74
+O165,9/14/2016,Shipped,With in 1 Week,P75
+O166,8/10/2016,Shipped,With in 1 Week,P76
+O167,11/20/2016,Shipped,With in 1 Week,P77
+O168,4/11/2016,Shipped,With in 1 Week,P78
+O169,11/27/2016,Shipped,With in 1 Week,P79
+O170,4/9/2016,Shipped,With in 1 Week,P80
+O171,6/23/2016,Shipped,With in 1 Week,P81
+O172,8/17/2016,Shipped,With in 1 Week,P82
+O173,8/9/2016,Partially Shipped,With in 1 Week,P83
+O174,7/15/2016,Partially Shipped,With in 1 Week,P84
+O175,7/28/2016,Partially Shipped,With in 1 Week,P85
+O176,2/21/2016,Partially Shipped,With in 1 Week,P86
+O177,8/3/2016,Partially Shipped,With in 1 Week,P87
+O178,2/21/2016,Partially Shipped,With in 1 Week,P88
+O179,10/21/2016,Partially Shipped,With in 1 Week,P89
+O180,5/7/2016,Partially Shipped,With in 1 Week,P90
+O181,6/23/2016,Partially Shipped,With in 1 Week,P91
+O182,3/24/2016,Partially Shipped,With in 1 Week,P92
+O183,3/20/2016,Partially Shipped,With in 1 Week,P93
+O184,7/14/2016,Partially Shipped,With in 1 Week,P94
+O185,2/13/2016,Partially Shipped,With in 1 Week,P95
+O186,12/17/2016,Partially Shipped,With in 1 Week,P96
+O187,12/14/2016,Partially Shipped,With in 1 Week,P97
