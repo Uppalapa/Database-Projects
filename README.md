@@ -68,5 +68,10 @@ Attributes:  Group_ID, Group_Name
 Attributes: Quality, Defect%, Review_ID, Review_Date
 
 ### ER Diagram for Retail Application
-ER Diagram for Retail Application Before Normalization:
+#### ER Diagram for Retail Application Before Normalization:
+![111](https://user-images.githubusercontent.com/25045759/27304876-866e2f90-550d-11e7-944a-695b7d39b45a.jpg)
+![222](https://user-images.githubusercontent.com/25045759/27304877-86769478-550d-11e7-9e25-878464cf6d56.jpg)
+
+#### After Normalization
+![333](https://user-images.githubusercontent.com/25045759/27304878-8679f712-550d-11e7-8dd3-d2ad92ee5289.jpg)
 
