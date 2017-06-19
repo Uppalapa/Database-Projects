@@ -69,3 +69,4 @@ Attributes: Quality, Defect%, Review_ID, Review_Date
 
 ### ER Diagram for Retail Application
 ER Diagram for Retail Application Before Normalization:
+
